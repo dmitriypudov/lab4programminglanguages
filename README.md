@@ -1,4 +1,14 @@
-## Языки программирования
-# lab4
-Run
-`terminal - new terminal - cargo run <url>`
+# Языки программирования 4 lab
+
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/)
+
+
+## Project Setup
+
+Terminal -> New terminal ->
+```sh
+cargo run <URL>
+```
